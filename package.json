@@ -1,6 +1,6 @@
 {
   "name": "monorepo-semantic-release",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "monorepo semantic releaase test repository",
   "main": "index.js",
   "author": "bestseob93@gmail.com",
