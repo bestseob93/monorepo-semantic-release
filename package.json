@@ -1,11 +1,13 @@
 {
   "name": "monorepo-semantic-release",
-  "version": "1.2.0",
+  "version": "1.2.1",
   "description": "monorepo semantic releaase test repository",
   "main": "index.js",
-  "author": "bestseob93@gmail.com",
+  "author": "bestlee93 <bestlee93@gmail.com>",
+  "publishConfig": {
+    "access": "public"
+  },
   "license": "MIT",
-  "private": true,
   "workspaces": [
     "packages/*"
   ],
