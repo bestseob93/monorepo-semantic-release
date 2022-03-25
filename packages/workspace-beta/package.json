@@ -1,7 +1,12 @@
 {
-  "name": "@msr/beta",
+  "name": "@bestlee93/beta",
   "version": "0.0.1",
   "license": "UNLICENSED",
   "main": "dist/index.js",
-  "module": "dist/index.js"
+  "module": "dist/index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/bestseob93/monorepo-semantic-release.git",
+    "directory": "packages/workspace-beta"
+  }
 }

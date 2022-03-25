@@ -1,6 +1,6 @@
 {
   "name": "monorepo-semantic-release-sup",
-  "version": "1.2.2",
+  "version": "1.3.0",
   "description": "monorepo semantic releaase test repository",
   "main": "index.js",
   "author": "bestlee93 <bestlee93@gmail.com>",
@@ -13,7 +13,8 @@
   ],
   "devDependencies": {
     "prettier": "^2.6.1",
-    "semantic-release": "^19.0.2"
+    "semantic-release": "^19.0.2",
+    "semantic-release-monorepo": "^7.0.5"
   },
   "scripts": {
     "semantic-release": "semantic-release --no-ci"
