@@ -1,3 +1,4 @@
 var a = '1'
+var b = 'b'
 
-module.exports = a
+module.exports = { a, b }
