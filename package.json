@@ -1,0 +1,23 @@
+{
+  "name": "monorepo-semantic-release",
+  "version": "0.0.0-development",
+  "description": "monorepo semantic releaase test repository",
+  "main": "index.js",
+  "author": "bestseob93@gmail.com",
+  "license": "MIT",
+  "private": true,
+  "workspaces": [
+    "packages/*"
+  ],
+  "devDependencies": {
+    "prettier": "^2.6.1",
+    "semantic-release": "^19.0.2"
+  },
+  "scripts": {
+    "semantic-release": "semantic-release"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/bestseob93/monorepo-semantic-release.git"
+  }
+}
