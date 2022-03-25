@@ -1,6 +1,6 @@
 {
   "name": "monorepo-semantic-release",
-  "version": "0.0.0-development",
+  "version": "1.0.0",
   "description": "monorepo semantic releaase test repository",
   "main": "index.js",
   "author": "bestseob93@gmail.com",
@@ -14,7 +14,7 @@
     "semantic-release": "^19.0.2"
   },
   "scripts": {
-    "semantic-release": "semantic-release"
+    "semantic-release": "semantic-release --no-ci"
   },
   "repository": {
     "type": "git",
